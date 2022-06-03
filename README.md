@@ -11,4 +11,4 @@ if it fits into the knapsack, it's accepted, if it doesn't it's passed on and ne
 
 
 
-![plot of solution trajectories for 4 different algorithms generated using SA1.py](![obraz](https://user-images.githubusercontent.com/100228539/171834981-fc340632-48bf-48c2-a1cd-a72604efcbdf.png))
+![plot of solution trajectories for 4 different algorithms generated using SA1.py](https://user-images.githubusercontent.com/100228539/171834981-fc340632-48bf-48c2-a1cd-a72604efcbdf.png)
