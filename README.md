@@ -7,6 +7,7 @@ This repository contains 2 python files:
 
 **fill()** takes a knapsack and a list and fills the knapsack to the brim with items pulled out of the list at random: it takes a random item from the list,
 if it fits into the knapsack, it's accepted, if it doesn't it's passed on and next item is randomly pulled, up until it has gone through the entire item list
+
 **swap()** is based on fill(): it copies the given knapsack and list into a candidate solution. It pulls N random items out of the candidate knapsack and uses fill() on the candidate knapsack and candidate list to create a new candidate knapsack. If the 
 
 
