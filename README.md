@@ -13,7 +13,9 @@ if it fits into the knapsack, it's accepted, if it doesn't it's passed on and ne
 SA1.py also contains 3 activation functions:
 
 **GreedySearch()** which performs a greedy search (only accepts better solutions when swapping)
+
 **RandomSearch()** which performs a random search (accepts every solution when swapping)
+
 **Metropolis()** which is the Metropolis activation function: it always accepts a better solution and accepts a worse solution with some probability, which is a function of temperature parameter
 
 Metropolis() is what enables the algorithm to work as Simulated Annealing (SA)
