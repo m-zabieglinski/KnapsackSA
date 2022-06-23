@@ -1,7 +1,10 @@
 # KnapsackSA
 This repository contains 2 python files:
+
 -SA1.py contains functions that allow to solve a knapsack problem using Simulated Annealing (SA)
+
 -main.py uses those functions to solve a particular knapsack problem defined there and should be an example of how to employ SA1.py
+
 
 **SA1.py** is built primarily on 2 functions:
 
